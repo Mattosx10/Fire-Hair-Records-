@@ -52,7 +52,7 @@ O sistema possui validações para:
 * Nome contendo caracteres não permitidos
 * Telefone com formato inválido
 * Telefone com menos de 10 dígitos
-* E-mail sem `@` ou `.`
+* E-mail sem `@` ou `.` .
 
 ---
 
